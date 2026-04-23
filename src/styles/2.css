@@ -1,0 +1,29 @@
+.first input{
+    background-color: rgb(246, 240, 233);
+    width: 300px;
+    height: 30px;
+    border-color: azure;
+}
+.select input{
+    background-color: rgb(246, 240, 233);
+    width: 300px;
+    height: 30px;
+    border-color: azure;
+}
+.first span{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.select span{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.statusSearch button{
+    margin-left: 10px;
+    padding: 6px 14px;
+    background: rgb(247, 233, 217);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
